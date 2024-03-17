@@ -7,7 +7,7 @@ Book suggestions for computer engineers, software developelers
 
 ## AI (more specifically on Machine Learning)
 
-### Beginner
+### Theoretical
 * "Machine Learning" by Tom M. Mitchell  (good for beginners)
 * "Neural Networks: A Systematic Introduction" by Raul Rojas (theory)
 * "Learning From Data" by Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin (theory)
