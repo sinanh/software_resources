@@ -3,7 +3,11 @@ Book suggestions for computer engineers, software developelers
 
 ## Programming
 * "Structure and Interpretation of Computer Programs" (SICP),Harold Abelson, Gerald Jay Sussman, and Julie Sussman
-* "Automate the Boring Stuff with Python" by Al Sweigart 
+* "Automate the Boring Stuff with Python" by Al Sweigart
+
+## General Software Development 
+* The Pragmatic Programmer" by Andrew Hunt and David Thomas
+* "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin 
 
 ## AI (more specifically on Machine Learning)
 
