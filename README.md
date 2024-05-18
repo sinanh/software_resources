@@ -15,6 +15,7 @@ Book suggestions for computer engineers, software developelers
 * "Machine Learning" by Tom M. Mitchell  (good for beginners)
 * "Neural Networks: A Systematic Introduction" by Raul Rojas (theory)
 * "Learning From Data" by Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin (theory)
+* Ilya sutskever's 30 papers: https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
 
 ### Practical
 * "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
