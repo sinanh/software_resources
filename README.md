@@ -1,6 +1,7 @@
 # Software Resources
 Book suggestions for computer engineers, software developelers
 
+## Textbooks
 ## Programming
 * "Structure and Interpretation of Computer Programs" (SICP),Harold Abelson, Gerald Jay Sussman, and Julie Sussman
 * "Automate the Boring Stuff with Python" by Al Sweigart
@@ -24,3 +25,7 @@ Book suggestions for computer engineers, software developelers
 ## Computer Engineering
 * "Computer Networking: A Top-Down Approach" by James F. Kurose and Keith W. Ross
 * "Operating System Concepts" by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne 
+
+## Essential Reading
+* [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
